@@ -1,5 +1,5 @@
 # Saúde Mental
-Um site informativo sobre saúde mental em parallax, feito com JS e estilizado com CSS.
+Um site informativo sobre saúde mental em parallax, feito apenas com  CSS.
 
 Link de produção: https://glistening-sprite-6b1096.netlify.app/
 
